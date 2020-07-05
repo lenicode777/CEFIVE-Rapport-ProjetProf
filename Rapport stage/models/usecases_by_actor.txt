@@ -1,0 +1,17 @@
+CSMGP
+	1-Enregitrer les agents
+	2-Affecter les agents 
+	3-Traiter les actes administratifs
+	4-Demander personnel
+CS
+	1-Demander personnel
+	2-Traiter les actes administratifs
+SD
+	1-Demander personnel
+	2-Traiter les actes administratifs
+DR
+	1-Demander personnel
+	2-Traiter les actes administratifs
+Agent 
+	1-Demander actes
+	2-Consulter ses informations
